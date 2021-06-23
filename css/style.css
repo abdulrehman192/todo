@@ -19,3 +19,7 @@ input[type="text"], input[type="text"]:focus
 .todos li{
     background:rgb(66, 66, 133);
 }
+i
+{
+    cursor: pointer;
+}
